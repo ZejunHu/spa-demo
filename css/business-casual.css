@@ -190,7 +190,7 @@ p {
     max-width: 50vw;
   }
   .product-item .product-item-btn {
-    margin-top: 10px;
+    text-align: right;
   }
 }
 
